@@ -135,44 +135,25 @@ CREATE TABLE student_courses (
 );
 ```
 
-
-
 ### 3.3 SQL 基本操作（CRUD）
 
 **增**
-
 sql
-
 ```
 INSERT INTO student VALUES (1, '张三', 18);
 ```
-
-
-
 **删**
-
 sql
-
 ```
 DELETE FROM student WHERE id = 1;
 ```
-
-
-
 **改**
-
 sql
-
 ```
 UPDATE student SET age = 20 WHERE name = '张三';
 ```
-
-
-
 **查**
-
 sql
-
 ```
 SELECT * FROM student;
 SELECT name FROM student WHERE age > 18;
