@@ -1,4 +1,4 @@
-# 📖 README
+# README
 
 > —康思晟
 
@@ -75,4 +75,5 @@ main.exe
 7. switch 语句
 8. break、continue
 9. 格式化输出（Printf）
+
 10. 简单错误处理（除 0 判断）
