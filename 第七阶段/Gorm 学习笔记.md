@@ -45,7 +45,6 @@
 
 ### 1. 安装
 
-bash
 
 ```
 # 打开终端，在你的项目目录下执行
@@ -57,7 +56,6 @@ go get -u gorm.io/driver/mysql
 
 ### 2. 连接数据库
 
-go
 
 ```
 package main
@@ -91,7 +89,6 @@ func main() {
 
 ### 1. 定义模型
 
-go
 
 ```
 // 定义一个用户表
@@ -112,7 +109,6 @@ db.AutoMigrate(&User{})
 
 #### 增加数据（Create）
 
-go
 
 ```
 // 创建一条数据
@@ -132,7 +128,6 @@ fmt.Println(result.Error)  // 打印错误（没有就是nil）
 
 #### 查询数据（Retrieve）
 
-go
 
 ```
 var user User
@@ -151,7 +146,6 @@ db.Find(&users, "age > ?", 18)      // 查询年龄大于18的
 
 #### 更新数据（Update）
 
-go
 
 ```
 // 先查询再更新
@@ -167,7 +161,6 @@ db.Model(&User{}).Where("id = ?", 1).Update("age", 30)
 
 #### 删除数据（Delete）
 
-go
 
 ```
 // 删除ID=1的数据
@@ -181,7 +174,6 @@ db.Where("age < ?", 18).Delete(&User{})
 
 ### 3. 常用查询
 
-go
 
 ```
 var users []User
@@ -199,4 +191,5 @@ db.Limit(10).Offset(0).Find(&users)             // 每页10条，第1页
 // 计数
 var count int64
 db.Model(&User{}).Where("age > ?", 18).Count(&count) // 统计年龄大于18的人数
+
 ```
