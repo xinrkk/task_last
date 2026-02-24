@@ -23,3 +23,10 @@
 ## 第四阶段任务目录
  * **[复刻网页链接](https://xinrkk.github.io/copy/)**
  * **[页面编后感](https://github.com/xinrkk/task/blob/main/%E7%AC%AC%E5%9B%9B%E9%98%B6%E6%AE%B5/%E9%A1%B5%E9%9D%A2%E7%BC%96%E5%90%8E%E6%84%9F.md)**
+
+## 第五阶段目录
+ * **[Linux 常用命令学习笔记](https://github.com/xinrkk/task/blob/main/%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5/Linux%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)**
+ * **[Go 语言学习笔记](https://github.com/xinrkk/task/blob/main/%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5/Go%20%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)**
+ * **[Demo 源码](https://github.com/xinrkk/task/blob/main/%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5/Demo%20%E6%BA%90%E7%A0%81.md)**
+ * **[Demo README 文档](https://github.com/xinrkk/task/blob/main/%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5/Demo%20README%20%E6%96%87%E6%A1%A3.md)**
+ * **[第五阶段学习小结](https://github.com/xinrkk/task/blob/main/%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5/%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%93.md)**
