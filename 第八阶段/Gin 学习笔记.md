@@ -214,6 +214,10 @@ r.DELETE("/users/1") // 删除ID为1的用户
 
 ## 四、身份校验
 
+![img](B.png)
+
+![img](.jpg)
+
 ### 1. Cookie
 
 go
