@@ -82,16 +82,7 @@ func main() {
 
 ### 1. MVC 架构分层
 
-text
-
-```
-myproject/
-├── main.go              // 入口文件
-├── controllers/         // 控制器（处理请求）
-│   └── user.go
-└── models/             // 模型（定义数据）
-    └── user.go
-```
+![img](F.png)
 
 MVC架构的三个核心组件分别是：**模型（Model）**、**视图（View）**和**控制器（Controller）**。
 
