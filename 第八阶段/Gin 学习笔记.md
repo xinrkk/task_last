@@ -216,7 +216,7 @@ r.DELETE("/users/1") // 删除ID为1的用户
 
 ![img](B.png)
 
-![img](.jpg)
+![img](C.jpg)
 
 ### 1. Cookie
 
